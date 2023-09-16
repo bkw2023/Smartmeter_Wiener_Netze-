@@ -2,15 +2,11 @@
 <html>
 <head>
 
-<link rel="stylesheet" href="4html/bgstyle.css">
 
 </head>
 <body>
 
-<div class="background-image"></div>
-<div class="content">
-
-<form id="test_form" onsubmit="changeaction()" method="GET" action="4html/button63.html">
+<div style="background:url(4html/Hintergrund.png); filter: brightness(1.2);">
 
 
 <p>
