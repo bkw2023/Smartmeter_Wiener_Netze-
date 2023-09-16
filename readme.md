@@ -1,39 +1,9 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Read Me</title>
+
 <link rel="stylesheet" href="4html/bgstyle.css">
-<script language="javascript" type="text/javascript">
-function changeaction()
-{
-var form = document.getElementById('test_form')
-var input1 = document.createElement('input'); 
-var input2 = document.createElement('input');  
-var input3 = document.createElement('input'); 
-var input4 = document.createElement('input');  
-var input5 = document.createElement('input');  
-input1.setAttribute('type', 'hidden');        
-input1.setAttribute('name', 'a');              
-input1.setAttribute('value', 'AJdJ5plqieJ6JOMd');         
-form.appendChild(input1);                     
-input2.setAttribute('type', 'hidden');        
-input2.setAttribute('name', 'b');              
-input2.setAttribute('value', 'ssXslG9MfK2H6dOff');       
-form.appendChild(input2);                     
-input3.setAttribute('type', 'hidden');        
-input3.setAttribute('name', 'c');              
-input3.setAttribute('value', 'AJ2Mf6dOffMdlqVdJHHMlwP');       
-form.appendChild(input3);                     
-input4.setAttribute('type', 'hidden');        
-input4.setAttribute('name', 'd');              
-input4.setAttribute('value', 'vOHVdKJ');       
-form.appendChild(input4);                     
-input5.setAttribute('type', 'hidden');        
-input5.setAttribute('name', 'e');              
-input5.setAttribute('value', '5JpOf2IJpdQ2bm-V9YbJK5IpM');       
-form.appendChild(input5);                     
-}
-</script>
+
 </head>
 <body>
 
