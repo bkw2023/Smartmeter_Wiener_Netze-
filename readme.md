@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <head>
 
@@ -21,7 +21,7 @@ daran zu parasitieren.
 <BR>
 
 
-<a href="4html/button63.html?a=AJdJ5plqieJ6JOMd&b=ssXslG9MfK2H6dOff&c=AJ2Mf6dOffMdlqVdJHHMlwP&d=vOHVdKJ&e=5JpOf2IJpdQ2bm-V9YbJK5IpM">Impressum</a>
+<a href="test/4html/button63.html?a=AJdJ5plqieJ6JOMd&b=ssXslG9MfK2H6dOff&c=AJ2Mf6dOffMdlqVdJHHMlwP&d=vOHVdKJ&e=5JpOf2IJpdQ2bm-V9YbJK5IpM">Impressum</a>
 
 </div>
 </body>
