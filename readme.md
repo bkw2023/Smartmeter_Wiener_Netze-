@@ -24,66 +24,7 @@ daran zu parasitieren.
 </p>
 <BR>
 
-<p>
-<b>Meine Motivation:</b>
-<BR><BR>
-Ich habe diese Seite geschaffen um jeden Balkonkraftwerkbetreiber der an einem Smartmeter 
-der Wiener Netze hängt, eine Möglichkeit zu geben seine Einspeisung zu sehen. 
-Im Smartmeter-Webportal der Wiener Netze wird eine Einspeisung nur mit einem Abnahmevertrag 
-angezeigt. Einen Abnahmevertrag bekommt man nur mit einem Einspeisezählpunkt. 
-Ob man einen Abnahmevertrag ins Auge fassen soll erkennt man aber nur anhand der Einspeisedaten. 
-Die Katze beißt ich also sozusagen selbst in den Schwanz.
-<BR><BR>
-Mit meinem Ersuchen einen Einspeisezählpunkt zu bekommen beiße ich bis jetzt sozusagen auf Granit. 
-Die Anregung eine Anzeige der Einspeisedaten im Smartmeter-Webportal ohne Abnahmevertrag durchzuführen 
-wird ignoriert. Ich will niemanden etwas unterstellen aber es kommt mir so vor als ob man das 
-verheimlichen möchte. Bei mir sind es etwa 50% der Jahresernte die ins Netz eingespeist werden. 
-Die Milchmädchenrechnung: 400kWh * 10000 BKWs * 0.2 Euro = 800000 Euro/Jahr gibt ein ganz schönes Körberlgeld. 
-</p>
-<BR><BR>
 
-<table border="1" cellpadding="5" cellspacing="0">
-<tr>
-<b>Inhaltsverzeichnis:</b><BR>
-</tr>
-<tr>.</tr>
-<tr>
-<td>Ordner<BR> HardwareSM:</td>
-<td>Hier ist zu finden wie ich meinen Smartmeterlesekopf für die Kundenschnittstelle zusammengebaut habe 
-und wie ich die Datenverbindung zu meinem PC gebaut habe.</td>
-</tr>
-
-<tr>
-<td>Ordner<BR> SoftwareSM:</td>
-<td>Hier gibt es die Software als Pascal-Source und 32bit-exe. Läuft bei mir auf Win10. 
-Dort habe ich auch beschrieben wie in etwa das Programm funktioniert und 
-hier gebe ich auch meine Kenntnisse zu dem Datenstrom den man an der Kundenschnittstelle erhält weiter.</td>
-</tr>
-
-<tr>
-<td>Ordner<BR> Einspeisezaehlpunkt:</td>
-<td>Hier gebe ich als Information meine Erfahrungen und Schriftverkehr mit den Wiener Netzen, eControl 
-und dem Bundesministerium für Klima etc (BMK) weiter. 
-Nützlich ist beispielsweise dass das BMK meinem Ansinnen nicht gänzlich abweisend gegenübersteht 
-und mir sogar die Pharagraphen des EIWOG genannt hat auf welche ich mich bei der eControl beziehen soll.</td>
-</tr>
-</table>
-
-
-<BR><BR>
-<p>
-<b>Mit betätigen des Button Impressum wird folgender Vereinbarung zugestimmt:</b><BR><BR>
-Die im Impressum zwangsweise offenbarten Daten dürfen nur in der Kommunikation mit 
-Behörden und in der Kommunikationen der Behörde mit mir verwendet werden.<BR>
-Alle anderen Verwendungen sind zu unterlassen, insbesondere Werbung, 
-automatischen Diensten (z.B. Suchmaschienen) die Indizierung mit den offenbarten Daten 
-zu ermöglichen, Stalking, oder sonstige Belästigungen.<BR> 
-Für technische Fragen sind die von Github vorgesehenen Mitteln zu verwenden.<BR>
-Für jede mißbräuchliche Verwendung der im Impressum  offenbarten Daten 
-wird ein Bußgeld von <b>1000 Euro</b> vereinbart, welches an mich zu entrichten ist.<BR><BR>
-</p>
-<input type="submit" value="Impressum">
-</form>
 
 </div>
 </body>
