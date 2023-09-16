@@ -1,2 +1,2 @@
 # test
-Dieses Repositor dient nur zum testen
+dieses repository dient nur zum testen
